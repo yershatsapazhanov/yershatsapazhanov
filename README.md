@@ -25,6 +25,12 @@ mine, where I am principal investigator on an industry-funded R&D contract.
   data and notebooks for a study comparing six PID tuning strategies on a
   nonlinear thermal plant: Ziegler–Nichols, Cohen–Coon, differential evolution,
   a Smith predictor, and reinforcement learning in offline and online form.
+- **[10.5281/zenodo.22903322](https://doi.org/10.5281/zenodo.22903322)** —
+  per-episode evaluation records, notebooks and figure sources for an ablation
+  study of risk-sensitive and distributional components in safe reinforcement
+  learning for shift-level supervisory control in open-pit mining. With
+  M. Alimanova, K. Orazaliyev, B. Berlikozha and B. Yermagambetov.
+
 
 ### Elsewhere
 
